@@ -1,0 +1,492 @@
+Аддоны,к которым я имею отношение:
+Твикнутый движок BaS с фиксом оружия от 3 лица! Теперь можно играть и от третьего лица, оружие и положение настроено аддоном [PTP Camera] v1.13
+Взять всё кнопка Х, выложить всё кнопка P
+Слайдер веса 10 тонн
+Надпись DEMO удалена, ни в чем себе не отказывайте (g_god, g_unlimitedammo и тд). Античит, блокирующий выдачу достижения из-за включенного дебага отключен.
+Апгрейд на увеличение магазина для всего оружия в игре, на которое такой апгрейд возможно физически сделать.
+Список содержимого тайника - Seruva
+Bullet Time - exDeMODER, HarukaSai, pitAlex, Boss
+Inventory Item Names (only ammo) - ravenascendant
+Full upgrades + patch for B&S + patch for Exoseva DLTX - swergdach, DLTX crew, Boss
+New Barret M82 from STCoP - Boss
+
+Related to me addons:
+Tweaked BaS engine with fixed 3rd person weapons! Now you can play from a third person, weapons and position are configured by the addon [PTP Camera] v1.13
+Take all button X, lay all button P
+10 ton weight slider
+The inscription DEMO has been removed, do not deny yourself anything (g_god, g_unlimitedammo, etc.). The anti-cheat blocking the issuance of an achievement due to the included debug is disabled.
+Upgrade to increase the magazine for all weapons in the game, for which such an upgrade is physically possible.
+Stash items list - Seruva
+Bullet Time - exDeMODER, HarukaSai, pitAlex, Boss
+Inventory Item Names (only ammo) - ravenascendant
+Full upgrades + patch for B&S + patch for Exoseva DLTX - swergdach, DLTX crew, Boss
+New Barret M82 from STCoP - Boss
+
+Список аддонов/Addons list:
+1. Soundscape Overhaul - Solarint
+2. Injury Audio Extended - DesmanMetzger
+3. EFT Aim Rattle - Qudix
+4. EFT Jump and Land SFX - HarukaSai
+5. Better Merc voicelines - YankeeGolf
+6. Quieter Wood Boxes Breaking - cringeybabey
+7. Angry Chimera growl - Tweaki_Breeki
+8. Hit Effects - Wepl
+9. Inventory open close sound - HollidayW
+10. Agressor Reshade - Awene
+11. THAP Rework - IENCE
+12. Skies Redux - d_nan
+13. High Res Loading Screens - Bazingarrey
+14. High Res PDA Maps - Bazingarrey
+15. Black Jack - Feel_Fried
+16. Dux's Innumerable Character Kit [1.9.9c] - Dux, Tronex, Lucy, Jack-It, Gwub, Cr3pis, Jurkonov, SD, Blackgrowl, Aquamarine, Dynamic, Ichicrow, Rowan, Tweaki Breeki, Sneaky, Nestandart_5443, Raven
+17. Dux's Innemurable Characters Kit Blackjack patch - DuxFortis
+18. Fixed Vanilla Models and Textures - Blackgrowl
+19. FVM Nosorogs models - Blackgrowl
+20. HD mutant models and textures - Umbrellord
+21. Wet Surfaces Fix - CryoManne
+22. Better Rain texture - Detron
+23. RemadeAnimations - ChadSTALKEREnjoyer
+24. Food Drugs and Drinks Animations FDDA - Feel_Fried
+25. LowerSprintAnimaiton - Skieppy
+26. Camera Reanimation INERTIA - IENCE
+27. Bounty Squads Extended - Vintar0
+28. Skill System - Haruka
+29. Disable Burnt Fuzz - _STYX_
+30. Perk-Based Artefacts - KronQ, Lauta_ro, Blackgrowl, artifax, Jurkonov, HarukaSai, TheMrDemonized 
+31. Lsz AI tweak - IgorNitch
+32. Mutants Bleeding - Arszi
+33. New Stashes Location - Tweaki_Breeki
+34. Fixes bugged stashes - Tweaki_Breeki
+35. Stash Overhaul + TBFix + BAS - Grokitach
+36. JSRS - Solarint
+37. FAL animations - Souvlaki
+38. AWAR - JCesarN
+39. Adjustable Scope View - HarukaSai, Ravenascendant, Cr3pis, Ishmaeel, sneakydud
+40. Abakan Replacer, Abakan Replacer patch - Strogglet15
+41. Saiga 12K replacer, Saiga 12K replacer patches - Strogglet15
+42. UMP Reanimation - FIREBREATH
+43. L96 Reanimation - FIREBREATH
+44. SortingPlus - RavenAscendant
+45. Knife Pistol in Binocular Slot - RavenAscendant
+46. Aslan Lottery Fixes - Starcry_
+47. Campfire slowly regens life - artifax
+48. Dialogues Expanded - indyora
+49. HD Glowsticks - r3zy
+50. Glowsticks position - Kidzukami
+51. Zone Tales in Loading Screens - Oni
+52. Outfit Drop Chance - artifax
+53. Configurable loot condition - dph
+54. RF Receiver Tasks - Tweaki_Breeki
+55. New sorting tabs - Bartoche
+56. New sorting tabs htsb patch - Bartoche
+57. Alternative icons - Strogglet15
+58. Body Dots on Minimap - RavenAscendant
+59. Better Stats Bar - TheMrDemonized
+60. Cr3pis Iconpack Helmet Less Armors - Cr3pis
+61. Simple Autumn Retexture Desaturated - Daedalus-Prime
+62. Gardener of the Zone Textures - YuriVernadsky
+63. Backpack Icons - DeadEnvoy
+64. Better RF Receiver sound - Coverdrave
+65. Water Flask Animation Rework - Apathy_Knight
+66. Zone Customization Project (ZCP) - Diphenhydramine-HCl
+67. NPCs Die in Emissions for Real - TheMrDemonized
+68. UMP Reanimation Addons - FIREBREATH
+69. Blindside's Knife Animations - galluserectus
+70. Momopate's Detailed Weapon Stats - Momopate
+71. Longreed's fixed artefacts spawns under maps - Longreed
+72. Solarint's New Piano Songs - Solarint
+73. Unlimited Stashes Weight
+74. Hollywoodfx V3.1 - DeathOrchid
+75. Golden Autumn Retexture Desaturated - kemelvorkorp
+76. Molotov Cocktails (UPDATE 1) - Barry Bogs, TheMrDemonized
+77. Dialog Dynamic Ui (UPDATE 2) - Slimey, GAMMA Discord, TheMrDemonized
+78. Weapon Cover Tilt (Wct) - TheMrDemonized
+79. Screen Space Shaders - Ascii1457, KD, Xerxes1138, LVutner, Panos Karabelas, Sébastien Lagarde
+80. Free Zoom V3 - SlowVibe, GPL
+81. Anomaly Tacticool Scopes 1.4 - Iretuerye, jaymorrow
+82. Barry's Better Knives - Barry
+83. VKS Vykhlop A VSSK Reanimation And Remodel - Utjan, BarryBogs
+84. Gunslinger Controller - DesmanMetzger, TheMrDemonized
+85. Squaredov - Square & Customizable Minimap - Tronex, RavenAscendant, Strogglet15
+86. Dynamic Objects V1.05 - Leviathan
+87. Dynamic Nocturnal Mutants V1.25 - Leviathan
+88. Dynamic Mutants V1.42 - Leviathan
+89. Exo Backpack 1.0 - Dead Air Dev, woopersnaper, HarukaSai, Junx
+90. Main Menu Cop Credit Roll - Gleb8513
+91. Cs Sidorovich With Soc Texture - Gleb8513
+92. Ultimate Backpacks Dltx 1.1 - Bluber2
+93. Exoseva CBSE Outfits - artifax, Hawu, Blackgrowl, RavenAscendant, sneaky, Jurko, SiNiMiKe, Lenny Weisstein, KronQ
+94. Tech's FNX-45 Retexture - Tech
+95. Dynamic Icon Indicators - Maid, RavenAscendant, HarukaSai
+96. Tooltip In Corner - ravenascendant
+97. RPG 26 - Last_Dawn, MLR, ПСЕВДО-S.T.A.L.K.E.R., AMK, Legapon
+98. LTTZ DC DLTX - SarisKhan, Moperdogolus, Grok (G.A.M.M.A)
+99. Storylines DLTX - August_Thurinus, DLTX crew
+100. Simplified Vision UI - HarukaSai, Maid, RavenAscendant, tkcrits, .MaLum
+101. Void Stasis Menu Music - Drunk_Headcrab
+102. 1st Person Visible Body [ported from SWM] upd.5A - Wang_Laoshi, SWM Devs Team, SynthSnow, LVunter, xcvb, RavenAscendant, Lucy, Ratio-x-Ray, mscnt, TheParaziT
+103. Skills Expansion 2.0 - HarukaSai, Blackgrowl, Maid, Utjan
+104. Crossing The Border 1.2 - Malac88, HellblaueHoelle, Boss (перевод)
+105. Scorpion EVO 3 v1.0 - Dionisiy9x39-, TAZ developers
+106. Beef's Shader Based NVGs v1.1.1 - theRealBeef 
+107. Beef's Shader Based NVGs Color Change - BlueDevil
+108. Playable Third Person Camera [PTP Camera] v1.13 - Detron (рекомендую стрелять от бедра)
+109. Dante's Need More Artefacts - Deanon
+110. Dynamic Anomalies Overhaul - DoctorX, Eugenium, Barry Bogs, Lucy, Grok (G.A.M.M.A), Jurkonov, CrimsonVirus, TheMrDemonized
+111. Artefacts Variationizer (UPDATE 11) - TheMrDemonized
+112. Extra Level Transitions (UPDATE 2) - TheMrDemonized
+113. GBOOBS Enhanced Recoil Revised (UPDATE 3) - TheMrDemonized
+114. Configurable Item Cost Modifiers (ICM) (UPDATE 1) - TheMrDemonized
+115. Michikos Weather Revamp Revised (UPDATE 2) - TheMrDemonized
+116. Combine All Items - TheMrDemonized
+117. Disassemble All Items (UPDATE 6.1) - TheMrDemonized
+118. AUG and G36 scopes replacement - TheMrDemonized, Iretuerye, BlackMetalV, Zhangfu
+119. G36 patch - Strogglet15
+120. HQ Glass Overlay - Cr3pis
+121. Dead Zone - optivankiev (optional)
+122. [DLTX] Bullethole Decals - Ni7L5T
+123. Dots and reticles extravaganza for BaS - Kuez
+124. MG42 adapted from TAZ 3.0 (now with MG3) - TAZ team, MerelyMezz for DLTX, KBT pack XL, Hisalute
+125. Companion Anti Awol - xcvb, RavenAscendant, BRSamael, Skieppy
+126. Companion Inventory Unlock - ravenascendant
+127. Outfits affect movespeed - whereismy, artifax
+128. LUN4T1C's Kriss Vector SMG [DLTX] - Mostly Peaceful, entire TAZ team, L4U6H1N6-LUN4T1C
+129. M134 Minigun - E.Nigma42, artezbot
+130. MP7 Replacement - Hyper3D, Noodum, PYP
+131. True Barrett M82 and MP7 - That_angry_merc
+132. Tagged Patches 1.1.2 - Utjan, translation - aut0mat
+133. Modern UI v2.0.5 UPD. - tkcrits, Mike0422
+134. minimaptoggle - ravenascendant
+135. Removed PDA *beep* Draw/Holster Sounds - FunkBuddha1
+136. 4K Bear Detector Texture - Pryviet
+137. Lootboxes - artifax
+138. Duty Expansion - GhenTuong
+139. Interactive PDA - RavenAscendant, Longreed, xcvb
+140. Testudo and Rascal for the thumbnail, JadeyMoyaison
+141. Inakrin's hitmark - inakringibs
+142. Extended Features of the New Game v1.2.3b - Misery Development Ltd., A.R.E.A. Team, morgannoor1991, Grok (G.A.M.M.A)itach, Orleon
+143. Pretty Pistols Pack - Strogglet15
+144. Descriptive Stash Coordinates - Aoldri
+145. Quick melee reworked v1.6a - Feel_Fried
+146. Trader Overhaul 1.30 - AGoodSetOfPistol
+147. Weapon Parts Overhaul - artifax
+148. Ouitfit Parts Overhaul - artifax
+149. Новые статы еды, напитков и медикаментов + Кола - kaRa
+150. Escape from Pripyat 4.0 - HarukaSai, Maid, разработчики Escape from Tarkov
+151. 1st Person Visible Body T.H.A.P fix (merc) - Wang_Laoshi, IENCE, franlorenzo96
+152. Mags Redux (EFP 4 updated) - artifax, Ishmaeel, d_nan, HarukaSai, Maid, Crepis, Sneaky, wuut, ravenascendant
+153. MWpack new weapons - MerelyMezz for DLTX, TAZ team, attackzone974's CotZ AO3.1 port, KBT weapon pack XL, kuez's reticles, Hisalute
+154. Beef's NPCs die in Anomalies v1.1 - theRealBeef
+155. Body Health System - Grok (G.A.M.M.A)
+156. Working magazines - ravenascendant, Dokkaebi
+157. Weapon Sway 0.52 - xcvb
+158. Unofficial Autocomplete More Dynamic Tasks 1.0 - xcvb, AeneasH, strelocc
+159. Ghillie Suit Overhaul V1.6 - Ravenascendant, xcvb/bvcx
+160. Crook's Faction Identification UI - Grok (G.A.M.M.A)
+161. Talk to everyone - Vintar0
+162. Mouse over transfer items - eric7237cire, MIT
+163. Keep Crafting Windows Opened (UPDATE 12) - TheMrDemonized
+164. Parts In Tooltip (UPDATE 5) - TheMrDemonized
+165. Dynamic NPC Armor Visuals (Anomaly 1.5.1/1.5.2) - ravenascendant, XCVB, Sneaky, Lucy/Rezy
+166. Remote Controlled Explosives and Pocket Bombs (v1.0) - Chool
+167. Hideout Furniture (HF) (Update 1.2.0) -  Александр Оверин, Aoldri
+168. Monolith War Lab (Unlocked) - ZOng22
+169. Grok (G.A.M.M.A)`s Ballistics Overhaul - Grok (G.A.M.M.A)
+170. HD модели - Ninja_Nub [NOR], Aboba, MrStalkerHacker, Darth_Shepard, Azetrix, jenek96, Raito-x-Ray
+171. Centered Positions 0.8 - FallNSonder
+172. LEWD ShAK-12 Tactical - L4U6H1N6-LUN4T1C, Shrike
+173. Ambient rework - kaRa
+174. Dante's Need More Artefacts - Dante, jeredy_hothead, Deanon
+175. Artefacts Variationizer - TheMrDemonized
+176. Misc.Weapons Pack ~ EFT reposition patch - BasedProton
+177. Powered Exoskeletons - artfax (ahuyn)
+178. Falls 2.0 - FeldW
+179. Outfit Attachment Overhaul - artfax (ahuyn)
+180. New weapon pack V1 - TAZ, SCPWP, eremeeffvowa2014
+181. Dark signal stand alone weapon audio - JSRS, Grok (G.A.M.M.A), Shr¡ke
+182. Dynamic Emission Cover - Utjan
+183. Track Stalkers Using Their Names (v1.2) - Chool
+184. Convert surrendering enemies to your faction (v1.2) - Chool
+185. Companion carry weight unlimiter - ravenascendant
+186. Bark Rework - Dizmok
+187. Inspect weapon - artifax, Ishmael, fsttime
+188. Paper box loot - zoust
+189. HD Models actor portraits - Raito-x-Ray, Ninja_Nub [NOR], Cr3pis, Aboba, MrStalkerHacker, Darth_Shepard, Azetrix, Rogaliusz
+190. Artifact signature locator - HyperionSTG
+191. Spark's Scope Detector Fixes - Anomaly Discord (minus xcvb), sneaky, Oleg Beon, Bluebarry Bootstiff, RavenAscendant, SparksTheUnicorn
+192. Banjaji's Undercover communications v1.1 - Vintar0, Banjaji
+193. New Weapon pack V1 Reposition Patch - BasedProton
+194. Early geiger warning 0.2 - xcvb
+195. Dark signal audioscape: Mutants - Shr¡ke
+196. Upgrades for Backpacks v1.1 - Messer_Schmitt
+197. Arti ballisticks - artifax
+198. AUGmented: The AUG Pack - Blackgrowl, Mike J, FIREBREATH1001
+199. The G36 Pack - Strogglet15
+200. Tommy Gun Drop - Servalion, Qatapro, Aoldri, Arti, Demonized, Cr3pis, Haruka, FIREBREATH1001
+201. Fixed xr_danger - xcvb
+202. Psy stress - livvan
+203. Toxic Rain - xcvb
+204. Toxic Air - xcvb
+205. Utjan's QoL Bundle - Utjan
+206. Craftable Upgradable AF Detectors - Aoldri, Ahuyn/Arti, Nekomaster, Boss
+207. Enhanced Shaders - LVutner, Meatchunk, Doenitz, Beef, KennShade
+208. TAZ Detector and RF Receiver Fix - ScotchCarb
+209. Shotgun Scopes Sights Silencers DLTX 1.5.2 - duxfortis, Oiltanker
+210. New Walk & Run Animation - Diazzer
+211. Device Selector Key - Maid, RavenAscendant, HarukaSai
+212. [SASSY] Ithaca M37 - Blackgrowl, Oleg152, Strogglet15
+213. HideTooltip[v1.1] - Pr1nkos
+214. Tactical Music Extended - microRIZO
+215. Tooltips control - Flueno
+216. Snipex Alligator V2 - L4U6H1N6-LUN4T1C
+217. Experience Framework - Orleon, ilrathCXV
+218. RUST & WILD WEAPONS v2.1 - Ivaanmr11
+219. Desert Eagle Gunslinger - Dizmok, Gunslinger crew
+220. SVU Reanimation & Remodel - BarryBogs, Frezzy, Firebreath, Utjan, Aoldri, Blackgrowl, Maid, Demonized, Chat
+221. Mounted machine gun replaced with HD model - eulampius
+222. Alternative Blind Dogs - KynesPeace
+223. RPG29 Vampire - Аlex
+224. Extended Task Info v1.1 - Coverdrave
+225. Immersive Skinning - TheMrDemonized, Utjan
+226. HeatVision v1.1 - vegeta1k95, Beef, LVutner + TheMrDemonized, MerelyMezz, Crookr, Edzan, Ascii1457
+227. Realistic Blood 3.1 - Fedia
+228. Dismemberment 0.81 - xcvb, Longreed, KynesPeace, Barry Bogs, Thial
+229. Alternative Pseudodogs and PsyDogs - KynesPeace
+230. Blood Pools (With Trails And Steps) - TheMrDemonized, xcvb
+231. Activated Charcoal v1.3.4 - Tosox
+232. Dux's Innumerable Character Kit Voices Pack - TheMrDemonized
+233. NPC Close Combat Enhanced - ravenascendant
+234. SP-5 Magnum Pistol - JMerc75, DJMaesen
+235. Alucard's Jackal Anti Freak Combat pistol - JMerc75 + Magazines paTch Hellsing Jackal - Blackjeison
+236. More Melee Features - BarryBogs
+237. KillCam (UPDATE 1) - TheMrDemonized
+238. BaS Howa 20 improved 1.4 [DLTX] - IModeusI
+239. Animation Of Ballistic Plates - Skyww, TheParaziT, xcvb
+240. World Spawns Rework - BarryBogs, Utjan, Aoldri, Demonized, Maid, Haruka
+241. CHEF FIERI'S WEAPON OF MASS DESTRUCTION - JMerc75, CHEF GUY FIERI
+242. ACE 52 Weapon Addon - FIREBREATH1001, Cr3pis, Aoldri
+243. Aiming Movement Redux - OG_Grinskin91
+244. DLTX MTacWPack 0.8 - Dionisiy9x39-, Eduardo Karlos
+245. Тип 38 Arisaka Rifle - Jurkonov, Asnen, Blackgrowl
+246. Alternative Fleshes - KynesPeace
+247. LEWD Weapon Pack: Benelli M3 Super 90 - L4U6H1N6-LUN4T1C
+248. Remington R5 Assault Rifle - JMerc75
+249. Alternative Cats - KynesPeace
+250. Smart map for Dynamic Anomalies Overhaul - real_leaper
+251. Price always in item tooltip v1.1 - real_leaper
+252. Retrogue Additional Weapons-Ammo - Retrogue
+253. Juan's Weapon Addon Collection - JMerc75
+254. MrB's 10mm Auto Ecosystem - Mr0Buggy, Juanter/Jmerc75, Norppa
+255. Viewport Loading Screens - Dubious_Repute
+256. (DTLX) Stick Grenade - billwa, Souvlaki, Juanter, Me (somewhat), Day Of Infamy Team
+257. LEWD Thompson SMG modernized - L4U6H1N6-LUN4T1C
+258. iTheon's PDA Taskboard - iTheon, TheMrDemonized
+259. MP412 Rex Reanimation v3.2 - Aoldri
+260. [DLTX] Agram 2000 - maidresidence, sebastian-ujhazi, NovaFinch, Wana, healslutfuria
+261. Alternative Boars - KynesPeace
+262. Immortal Important NPCs - RazorShultz
+263. Tough Important NPCs and Companions - hexef
+264. Trader Destockifier - TheMrDemonized
+265. Fillable Canteens 2.0 - HarukaSai, Maid, Arszi, TheMrDemonized
+266. M3A1 Grease Gun - billwa, Scarface, MK4, Ribbles, Day Of Infamy Team
+267. M67 Grenade - billwa, Juan, Zahar Kobyakov, TheMrDemonized, Gunslinger Team, Teivaz
+268. Arena rebalance v1.2 - m-bo-one
+269. Anomaly Launcher in Russian Language - NiceDreamer
+270. EFT gear rustle sound - Kyle_1105
+271. Phant0m's Tactical Endgame Weapons Pack - PKx_Phant0m
+272. Footsies v2 - t.tv/nekousagikorou
+273. PDA reanimation - ky-ky123
+274. Dynamic Time-based Tonemap Extended - TheMrDemonized
+275. Atmospherics - Hippobot, Joe325, LVutner, Grok (G.A.M.M.A), B0nsey, aytabag, Dyn, Jaku, Lauta-Ro, DelphicBadger, kRePiN, NAKY, i860
+276. PDA To Previous Weapon - TheMrDemonized
+277. Ammo maker - artifax
+278. 9x39mm Weapon Family Beautification - Strogglet15
+279. Better Smoke Grenades - TheMrDemonized
+280. Equipable Thermalvisor for HeatVision v1.1 - Smic, DuxFortis, vegeta1k95
+281. Artefacts melter - Grok (G.A.M.M.A)
+282. Grok (G.A.M.M.A)'s & Bert's Casings Falling Sounds - Grok (G.A.M.M.A), Bert
+283. Food Drug & Drink Missing Animations Patch v8 + Cannabis Animation - BudBone, Feel_Fried, Bongwatter
+284. Arrival Anomalies - S.e.m.i.t.o.n.e, themrdemonized
+285. New Levels 0.31 - bvcx, Longreed, ISOTD3 team, Thundervision, Red Panda (Sobolevskiy), Roman-n, demonized, RavenAscendant
+286. New Game+  - bvcx, RavenAscendant
+287. G36 Reanimation - SeDzhiMol, mp5lng, tint08771, LilRayne
+288. SR-3M "VIHR" Reanimation - SeDzhiMol
+289. PP2000 Reanimation rework - SeDzhiMol
+290. Dovetail and scopes for BaS Akm/Akms - IModeusI
+291. BaS SKS improved - IModeusI
+292. No fingerless exolight gloves for T.H.A.P. Rework - IModeusI
+293. VZ-61 REANIMATED - Teivaz
+294. Extra Level Transitions Bonus Transitions - Dhatri
+295. New armor pack - ChoKoLaDka, Jurkonov
+296. [DLTX] Add SKAT-10M - SHREDDER(V)o￥o(V), brainscorcher , KronQ , Strogglet15 , uYoxq , Blackjeison
+297. IZH 18 MP18 - billwa, Juan, Qatapro
+298. Spas12 Reanimation - FIREBREATH1001, Cr3pis, BarryBogs, Lucy, Utjan, Danek_Super
+299. USAS-12 Reanimaton - SeDzhiMol
+300. Autolooter - iTheon (G.A.M.M.A)
+301. Pick Best Disassembly Tool master - iTheon (G.A.M.M.A)
+302. Zil 131retexture - _BigBro_
+303. Keep ammo highlighted - d1sasterpiece
+304. Track compatible items - d1sasterpiece
+305. Mosin Nagant M1939 Re-model & Re-animation v0.4 - jdud
+306. HK416 Replacement v1.3.1 - etapomom
+307. REKT HK516 - TomasaurusREKT
+308. Better A-life Overhaul 1.4 - Strajkerpro, Myurat
+309. FDDA Enhanced Animations - Food and Drinks - Mirrowel
+310. FDDA Enhanced animations - Medical / EXO ANIMS - Mirrowel
+311. (DTLX) MAC-10 - billwa, Teivaz, Juan, Bamma, Ribbles
+312. FB Radom Vis 35 - SoulCrystal
+313. Base Skills Pack v1.2.1 - Orleon, DemVort
+314. NPC looting fix 1.4 - FeldW
+315. [DLTX] 3rd Person Models Fix for Jackets - MotaRin
+316. Usable Bar doors - Longreed, xcvb, Stalker_Boss (remove all k-pop related)
+317. Brotherhood - ComradeCatilina, xcvb NLTP-ASHES, GhenTuong, RavenAscendant, igigog, demonized, Stalker_Boss (RU translation, DLTX)
+318. FN F2000 Reanimation and Remodel - SeDzhiMol, Stalker_Boss (новый граник)
+319. Toggle Auto Run - ITsPorky
+320. Ledge Grabbing / Mantling - Parazit, Strelok
+321. Dynamic discounts 0.34 - xcvb
+322. Pinup Collector - ravenascendant
+323. Photo of a Loved One Animated - Apathy_Knight
+324. Maxwell my Beloved ❤ - Felisaur, TheMrDemonized
+325. Proportional Medic Healing Price v1.2 - Coverdrave
+326. HD Lurker - KeatonB_08
+327. Patches by Hotkey - TheMrDemonized
+328. Reanimodel HK MP7 - SeDzhiMol
+329. BaS AK-12 Reanimation - SeDzhiMol
+330. Тип89 - NickolasNikova, michau2, Kally
+331. LEWD Howa Тип64 - L4U6H1N6-LUN4T1C, TheDj
+332. Gotta Go Fast Extended v1.1.0 - Tosox, Grokitach, reter
+333. Global Map Rework (1.5.2) - DeadEnvoy
+334. O.D.S.T Armor - Synx201, Juan, Frosty
+335. Stalker Notes - NLTP_ASHES
+336. Stashes From Journals - NLTP_ASHES
+337. PDA Hacking - Utjan, AlphaLion
+338. All Ghillied Up R700 - kaiju00
+339. Defended Lab X-10 - _Shen_
+340. Pretty Reanimated Pistols - FIREBREATH1001
+341. Sig Sauer P320 -  LilJma, OneRock, FIREBREATH1001
+342. FN Fal Reanimation - NickolasNikova
+343. Re:done Agroprom Underground - eAkman
+344. Re:done Agroprom - eAkman
+345. Re:done Garbage - eAkman
+346. Re:done Cordon - eAkman
+347. Re:done Darkvalley & Darkscape - eAkman
+348. Re:done Rostok & Truck Cemetery - eAkman
+349. Re:done Yantar & Wild Territory - eAkman
+350. Devices of Anomaly Redone - BarryBogs, Diolator, Aoldri, Utjan, Lucy, Cr3pis, TheMrDemonized, Rzen1th, Catspaw
+351. Western Goods v2.4.0 - NLTP_ASHES
+352. Utjan's Item UI Improvements - Utjan
+353. Delicious Daewoo's w/ AR70 - billwa, Callmesynth, Ribbles (me), Jaunter, Qatapro, Kally
+354. LEWD REPLACEMENT: FAMAS - L4U6H1N6-LUN4T1C, Teivaz
+355. Radial Quickslots - NLTP_ASHES
+356. icons time patch for alt icons - qxq_chill, noname
+357. Headgear Animations - lizzardman
+358. Sleep Timelapse 0.31 - TheMrDemonized
+359. M98B Reanimation - NickolasNikova
+360. M249 Reanimation - NickolasNikova
+361. Shell Physical Particles v0.2 - TheParaziT, s.e.m.i.t.o.n.e.
+362. Winter Load Screens - chiffmonkey
+363. Zone Passive Income - sto_benino
+364. Detectors Pull Artifacts - G_FLAT
+365. No Leaning Camera Roll - G_FLAT
+366. Overheat gunsmoke - party_50
+367. The Anomalous Stash - Utjan, AlphaLion
+368. Vehicles Redux - FlashBangZ, Biggs, Rebuild, EFP Team
+369. Private's Aim Stamina v1.2.1 - Private_Pirate, xcvb, RavenAscendant, NLTP_ASHES, jaymorrow
+370. Move All Blocker Extended - G_FLAT
+371. Heckler & Koch G11 - popattara, Barry Bogs, Fish_Oil
+372. Outfit Animations - lizzardman
+373. DAR Dosimeter Enhanced - lizzardman, Barry Bogs
+374. Busy Hands Detection and Blame - ravenascendant
+375. RPD Reanimation - NickolasNikova
+376. Simple Flashlight Replacer - Strogglet15, MAR.COS
+377. Meowie's Reworked Weapon Textures - Meowie (G.A.M.M.A)
+378. [DLTX]EFT Modular Helmets and Armors Rework - anОтсутствуетq, DerChrom, Stalker_Boss, EHoT_IIoTaCkYH
+379. ATHI Weapons modpack - Andtheherois (G.A.M.M.A)
+380. Personal Adjustable Waypoint 2.1.2 - CatspawMods, HarukaSai, RavenAscendant, TheMrDemonized, GhenTuong
+381. Battery recycle - oxi-astra, TheMrDemonized
+382. Milspec PDA 1.9.7 with Kill Tracker - CatspawMods, Alundaio, RavenAscendant, Cr3pis, Ishmaeel, AlphaLion
+383. Mark Switch - party_50
+384. Drunk's Enhanced Toxic Air [1.5.2.] [MCM] [DLTX] - Drunk_Headcrab, EHoT_IIoTaCkYH, PrestSL, Stalker_Boss 
+385. [DLTX] TAZ's HAMR Special Weapons Pack 1.2 Final - settwinter, mp5lng
+386. Bart's Good Ammo Counters 2.1 - Bartoche70, ravenascendant, Stalker_Boss (перевод, доработка)
+387. Maki's Gesture system 2.0 - Maki_Kun, TheMrDemonized
+388. Mutant Loot Chance Configuration (MCM) - ilrathcxv, Stalker_Boss (перевод)
+389. Enhanced Dynamic (Combat) Music (Update 2) - Orleon
+390. Trepang2 ost for Enhanced Dynamic Combat Music - Man_of_Krieg, Orleon, Stalker_Boss (перевод)
+391. RGD-2 Smoke Grenade - Billwa, JMerc75
+392. Ultimate Autosave - FenêtreXxMagique, Stalker_Boss+PriestSL (перевод, рефакторинг)
+393. Black HK416 Replacement Texture - TomasaurusREKT, etapomom
+394. Lunaticsgoldenballs - L4U6H1N6-LUN4T1C, TheDj, Stalker_Boss (перевод)
+395. Dynavision Photomode - strangerism (G.A.M.M.A)
+396. RWAP G36 Pack - Retrogue (G.A.M.M.A), Stalker_Boss (перевод, доработка)
+397. [DLTX] Dynamic Mutants Slightly Remastered (UPDATE 7) - TheMrDemonized
+398. The Armed Zone 3.0 - mp5lng
+399. Autocomplete Tasks v2.1.4 - Tosox, strelocc, AeneasH
+400. Body Health System Realistic Overhaul (0.87 EFT BHS Update) - Mirrowel
+401. Debug Spawn Attachments - G_FLAT
+402. BAS M key rebind and BHS H key rebind + other improvements - pesta, ravenascendant, ZirdupioGamers, bas2000, RayZzz, explorerbee
+403. Hideout Furniture Expansion ammo box patch - pesta
+404. Even More Hideout Furniture - facelessez
+405. Hideout Furniture Placement Preview Gizmo - Thial
+406. Dynamic Icon Indicators BaS Patch - Lalup
+406. Draggable Hud Editor (UPDATE 9) - TheMrDemonized, Tronex
+407. HUD Offsets Editor - DaimeneX, Lucy, TheMrDemonized
+408. PDA Radio Extended v1.3 - Starcry_
+409. Anomaly Popup Messages - TheMrDemonized, Utjan, Blackgrowl
+410. Corpse Fauna - Rage4556, xcvb
+411. LEWD Boltov - L4U6H1N6-LUN4T1C, Shrike
+412. LEWD Boltov modified - elsaac
+413. Anomalous Creation - Wang_Laoshi
+414. NPC Wound Tweak - lizzardman, RavenAscendant
+415. Drag-n-Drop Repair Filters and Tanks for Drunk's Enhanced Toxic Air - ilrathcxv
+416. Nav's 4K Definitive Masks v1.3 - navjotski
+417. [DLTX] Arszis Radiation Overhaul Demonized Edition (UPDATE 5) - TheMrDemonized, Arszi
+418. Guitar Animation For Full Enjoyment - Daiviey, leerhansson2823, Wang_Laoshi
+419. FAL (обычный + OLD), M16(A2,A3,A4), ТИГР, МР-153, СОК-94 - Proshliy
+420. OWR Infernal Edition v.0.3 - Infernis, mp5lng (TAZ)
+421. Footsies v2 - NekousagiKorouYTttv
+422. Persistent Weather - yohjimane, ravenascendant, TheMrDemonized, cr3pis
+423. Mugging Squads - TheMrDemonized, billwa
+424. Rats and Tushkans don't push - NewbieRus
+425. Aydins Grass Tweaks 4.0 - aytabag, Aydin, Fabio Conte.
+426. Aydins Grass Tweaks SSS Terrain LOD compatiblity - aytabag, Aydin, Ascii1457
+427. Caliber Conversions for All Weapons - ilrathcxv
+428. Streamlined Upgrades - artifax
+429. Semi-radiant AI 0.31 - bvcx, Longreed
+430. TB's Coordinate Based Safe Zones v1.5 - Tweaki_Breeki, K0bik, Cr3pis, Quantum_Cookie, Elkinda, miyukiharukagacus02
+431. TB's Fairer Thermal Anomalies v1.5 - Tweaki_Breeki, moddbplsffs, =Krieger=, aorushome
+432. Project TV - Junateg, Gleb8513, s.s.t.a.l.k. and OliverMendes
+433. [DLTX] Traders sell recipes - megamurmulis
+434. FDDA Enhanced Animations Enhanced - lizzardman, Tosox
+435. Improved Mutant Footsteps - SalamanderAnder, AlphaLion, aorushome
+436. Shaders Look Better v1.1.0 - Dlani, Ascii1457
+437. Corrections of brightly colored trees and bushes - NewbieRus
+438. Camo Netting Shadow Fix - VodkaPivin, AMK-Team Forum, bvcx
+439. Devices Retexture. PDA Update - Meowie (G.A.M.M.A)
+440. The AEK Kit - Strogglet15, Marek Vozár
+441. Gestures 1.2 - VodoXleb, TheMrDemonized, lexus, xcvb
+442. More Mutant Step SFX - BrainScorched
+443. I.W.P. exos and animations for them - MAX16, I.W.P. team (G.A.M.M.A)
+444. Black Ops Olympia Duo - frostychun, IWP, S.T.A.Z. WP, BaS, STCoP WP, OWR, Gunslinger Mod
+445. Craft From Stashes 1.3a - HotSake, IngvarrX
+446. MoveEffects & AlmostTrueProne BETA Up.5 - Wang_Laoshi, bvcx, Feel_Fried, TheShinyHaxorus, CryoManne, Lucy and other Anomaly Devs, Discord community
+447. RE:SPAWN MUTANT COLLECTIONS PART A, B, C, D - Hades@DK, eAKman, Roman Goroff, Stalker_Boss
+448. RE:Bound Encounters - EtongSayo, Stalker_Boss
+449. [MCM] NPCs Limping and Healing (FIX 2) - VodoXleb, lexus(testing), ai_additions 2.04
+450. HAR (Health Monitoring System) - alexmarheaves, HarukaSai, AlexMarheaves
+451. Urban Tactics - GhenTuong, demonized, cr3pis, zoulkrystal, Blackgrowl
+452. The Collector - Utjan
+453. ZLM - ZCP Loot Module revised [4.1.x] - ZaturaMakesMods, Diphenhydramine-HCl, Stalker_Boss (перевод)
+454. Battery Warning - ravenascendant
+455. No Fake Collision DLTX 1.0.1 - igorukun
+456. Extra Achievements - bvcx, RavenAscendant, Longreed
+457. DNPCAV Variety - ravenascendant, Blackgrowl, XCVB
+458. New medkits and bandages [DLTX + FDDA] - No_Data, Spike2135
+459. Detailed description 0.32 - bvcx, RavenAscendant
+460. Tha Walking Ded - bvcx, DSurs (A.R.E.A.)
+461. Lights of the Dead - VodoXleb
+462. Weapon Inertia Expanded - lizzardman
+463. Body Search Animation - lizzardman
+464. ascendantcrosshairs - ravenascendant, Blackgrowl
+465. he is with me - ravenascendant
+466. Quick Action Wheel - HarukaSai, Aoldri, Maid
