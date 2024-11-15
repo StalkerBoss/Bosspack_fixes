@@ -468,25 +468,24 @@ New Barret M82 from STCoP - Boss
 442. More Mutant Step SFX - BrainScorched
 443. I.W.P. exos and animations for them - MAX16, I.W.P. team (G.A.M.M.A)
 444. Black Ops Olympia Duo - frostychun, IWP, S.T.A.Z. WP, BaS, STCoP WP, OWR, Gunslinger Mod
-445. Craft From Stashes 1.3a - HotSake, IngvarrX
-446. MoveEffects & AlmostTrueProne BETA Up.5 - Wang_Laoshi, bvcx, Feel_Fried, TheShinyHaxorus, CryoManne, Lucy and other Anomaly Devs, Discord community
-447. RE:SPAWN MUTANT COLLECTIONS PART A, B, C, D - Hades@DK, eAKman, Roman Goroff, Stalker_Boss
-448. RE:Bound Encounters - EtongSayo, Stalker_Boss
-449. [MCM] NPCs Limping and Healing (FIX 2) - VodoXleb, lexus(testing), ai_additions 2.04
-450. HAR (Health Monitoring System) - alexmarheaves, HarukaSai, AlexMarheaves
-451. Urban Tactics - GhenTuong, demonized, cr3pis, zoulkrystal, Blackgrowl
-452. The Collector - Utjan
-453. ZLM - ZCP Loot Module revised [4.1.x] - ZaturaMakesMods, Diphenhydramine-HCl, Stalker_Boss (перевод)
-454. Battery Warning - ravenascendant
-455. No Fake Collision DLTX 1.0.1 - igorukun
-456. Extra Achievements - bvcx, RavenAscendant, Longreed
-457. DNPCAV Variety - ravenascendant, Blackgrowl, XCVB
-458. New medkits and bandages [DLTX + FDDA] - No_Data, Spike2135
-459. Detailed description 0.32 - bvcx, RavenAscendant
-460. Tha Walking Ded - bvcx, DSurs (A.R.E.A.)
-461. Lights of the Dead - VodoXleb
-462. Weapon Inertia Expanded - lizzardman
-463. Body Search Animation - lizzardman
-464. ascendantcrosshairs - ravenascendant, Blackgrowl
-465. he is with me - ravenascendant
-466. Quick Action Wheel - HarukaSai, Aoldri, Maid
+445. MoveEffects & AlmostTrueProne BETA Up.5 - Wang_Laoshi, bvcx, Feel_Fried, TheShinyHaxorus, CryoManne, Lucy and other Anomaly Devs, Discord community
+446. RE:SPAWN MUTANT COLLECTIONS PART A, B, C, D - Hades@DK, eAKman, Roman Goroff, Stalker_Boss
+447. RE:Bound Encounters - EtongSayo, Stalker_Boss
+448. [MCM] NPCs Limping and Healing (FIX 2) - VodoXleb, lexus(testing), ai_additions 2.04
+449. HAR (Health Monitoring System) - alexmarheaves, HarukaSai, AlexMarheaves
+450. Urban Tactics - GhenTuong, demonized, cr3pis, zoulkrystal, Blackgrowl
+451. The Collector - Utjan
+452. ZLM - ZCP Loot Module revised [4.1.x] - ZaturaMakesMods, Diphenhydramine-HCl, Stalker_Boss (перевод)
+453. Battery Warning - ravenascendant
+454. No Fake Collision DLTX 1.0.1 - igorukun
+455. Extra Achievements - bvcx, RavenAscendant, Longreed
+456. DNPCAV Variety - ravenascendant, Blackgrowl, XCVB
+457. New medkits and bandages [DLTX + FDDA] - No_Data, Spike2135
+458. Detailed description 0.32 - bvcx, RavenAscendant
+459. Tha Walking Ded - bvcx, DSurs (A.R.E.A.)
+460. Lights of the Dead - VodoXleb
+461. Weapon Inertia Expanded - lizzardman
+462. Body Search Animation - lizzardman
+463. ascendantcrosshairs - ravenascendant, Blackgrowl
+464. he is with me - ravenascendant
+465. Quick Action Wheel - HarukaSai, Aoldri, Maid

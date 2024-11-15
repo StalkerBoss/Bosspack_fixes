@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+	<string id="ui_mcm_body_health_system_bhs_hud_bind">
+		<text>BHS UI mode key</text>
+	</string>
+	<string id="ui_mcm_body_health_system_bhs_hud_bind_desc">
+		<text>Keybind to change BHS UI mode (full UI, minimalist UI, off). Default key: H</text>
+	</string>
+	<string id="ui_mcm_body_health_system_easyhealing">
+		<text>Disable Temporary Health</text>
+	</string>
+	<string id="ui_mcm_body_health_system_easyhealing_desc">
+		<text>(Reloading required) If easy healing is enabled, temporary limb health will be disabled. Default: disabled.</text>
+	</string>
+	
+	
+	
+	
+	<string id="ui_mcm_bas_keybinds_title">
+		<text>Extra BAS Keybinds</text>
+	</string>
+	<string id="ui_mcm_menu_bas_keybinds">
+		<text>Extra BAS Keybinds</text>
+	</string>
+	
+	<string id="ui_mcm_bas_keybinds_bas_nvg_scope_key">
+		<text>BAS NVG Scope Key</text>
+	</string>
+	<string id="ui_mcm_bas_keybinds_bas_nvg_scope_key_desc">
+		<text>This key turns NVG SCOPES on and off. Default: M</text>
+	</string>
+	
+	
+<!-- 
+	These are the new strings we insert with DXML into ui_st_body_health_system.xml. Yes, it also inserts the BAS strings into that file even tho it's a separate menu. It still works so I don't think it matters.
+-->

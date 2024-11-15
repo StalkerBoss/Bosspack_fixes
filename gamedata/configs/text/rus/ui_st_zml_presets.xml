@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<!-- MAIN MENU
+	<string id="ui_mcm_prst_zml_preset_main_1">
+		<text>По умолчанию</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_main_2">
+		<text>Дефицитный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_main_3">
+		<text>Ограниченный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_main_4">
+		<text>Щедрый</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_main_5">
+		<text>Обильный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_main_6">
+		<text>ID Ограничивает скорость бега</text>
+	</string>
+	-->
+	<!-- NPC LOOT -->
+	<string id="ui_mcm_prst_zml_preset_npcloot_1">
+		<text>Лут с NPC - по умолчанию</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcloot_2">
+		<text>Лут с NPC - скудный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcloot_3">
+		<text>Лут с NPC - ограниченный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcloot_4">
+		<text>Лут с NPC - щедрый</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcloot_5">
+		<text>Лут с NPC - изобильный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcloot_6">
+		<text>Лут с NPC - спидран конца ID (слишком много)</text>
+	</string>
+	<!-- NPC TIER -->
+	<string id="ui_mcm_prst_zml_preset_npctier_1">
+		<text>Уровень NPC - По умолчанию</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npctier_2">
+		<text>Уровень NPC - Посредственный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npctier_3">
+		<text>Уровень NPC - Скидочный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npctier_4">
+		<text>Уровень NPC - Хорошее качество</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npctier_5">
+		<text>Уровень NPC - Премиум</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npctier_6">
+		<text>Уровень NPC - Равные шансы</text>
+	</string>
+	<!-- NPC RANK -->
+	<string id="ui_mcm_prst_zml_preset_npcrank_1">
+		<text>Ранг NPC - по умолчанию</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcrank_2">
+		<text>Ранг NPC - Крестьянин</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcrank_3">
+		<text>Низкий ранг NPC</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcrank_4">
+		<text>Высокий ранг NPC</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcrank_5">
+		<text>Ранг NPC - Король</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_npcrank_6">
+		<text>Ранг NPC - Небольшой займ в размере миллиона рублей</text>
+	</string>
+	<!-- STASH LOOT -->
+	<string id="ui_mcm_prst_zml_preset_stashloot_1">
+		<text>Лут в тайниках - по умолчанию</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashloot_2">
+		<text>Лут в тайниках - дефицитный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashloot_3">
+		<text>Лут в тайниках - ограниченный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashloot_4">
+		<text>Лут в тайниках - щедрый</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashloot_5">
+		<text>Лут в тайниках - изобильный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashloot_6">
+		<text>Лут в тайниках - спидран конца ID (слишком много)</text>
+	</string>
+	<!-- STASH TIER -->
+	<string id="ui_mcm_prst_zml_preset_stashtier_1">
+		<text>Тир тайников - по умолчанию</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashtier_2">
+		<text>Тир тайников - Посредственный</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashtier_3">
+		<text>Тир тайников - Скидка</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashtier_4">
+		<text>Тир тайников - Хорошее качество</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashtier_5">
+		<text>Тир тайников - Премиум</text>
+	</string>
+	<string id="ui_mcm_prst_zml_preset_stashtier_6">
+		<text>Тир тайников - Равные шансы</text>
+	</string>
+</string_table>

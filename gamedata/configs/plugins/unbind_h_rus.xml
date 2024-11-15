@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+	<string id="ui_mcm_body_health_system_bhs_hud_bind">
+		<text>BHS UI клавиша мода</text>
+	</string>
+	<string id="ui_mcm_body_health_system_bhs_hud_bind_desc">
+		<text>Клавиша для смены BHS UI (полный UI, минималистичный UI и отключить UI). Стандартная клавиша: H</text>
+	</string>
+	<string id="ui_mcm_body_health_system_easyhealing">
+		<text>Отключить временное здоровье</text>
+	</string>
+	<string id="ui_mcm_body_health_system_easyhealing_desc">
+		<text>(Требуется перезагрузка) Если включено легкое исцеление, временное здоровье конечностей будет отключено. По умолчанию: отключено. </text>
+	</string>
+	
+	<string id="ui_mcm_bas_keybinds_title">
+		<text>Extra BAS Keybinds</text>
+	</string>
+	<string id="ui_mcm_menu_bas_keybinds">
+		<text>Extra BAS Keybinds</text>
+	</string>
+	
+	<string id="ui_mcm_bas_keybinds_bas_nvg_scope_key">
+		<text>Клавиша ночного зрения для оптики мода BAS</text>
+	</string>
+	<string id="ui_mcm_bas_keybinds_bas_nvg_scope_key_desc">
+		<text>Эта клавиша включает/выключает ночное зрение в прицелах BAS. По умолчанию: M</text>
+	</string>
