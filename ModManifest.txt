@@ -1,2 +1,238 @@
-\Credits.txt`E57A4515AF132ED6CACA06DE358E5622
-\Fixes.txt`705331B65C2D36F4AA512AB8550C2C70
+\Credits.txt`B01CD099913E0DEDEB86C59F73D0FA08
+\Fixes.txt`8EC7CE6BA9AA8951899B5EDAB25F2532
+\db\mods\configs.db`F572FCDECCB208D5BB110FBF96F864A5
+\db\mods\scripts.db`5139978D9E1E88C3C96AAFA86430B3D2
+\gamedata\configs\cam_position.ltx`E97747F1C2E565AD700FA20DC33D72CC
+\gamedata\configs\localization.ltx`8D62A91A2E3AEFBFBD1A3A201CA32DF0
+\gamedata\configs\plugins\unbind_h_eng.xml`755DADE4A5E64F743862BD3DC8650173
+\gamedata\configs\plugins\unbind_h_rus.xml`8A5F43F21D3C9129E9779FCE1E488AF5
+\gamedata\configs\plugins\playable_piano\instruments\instruments.ltx`45AB5533B863DB967CE3CC72B7EEFCFE
+\gamedata\configs\plugins\playable_piano\instruments\instrument_electric_piano.ltx`125A25830B61217FB352EFE3A0994D76
+\gamedata\configs\plugins\playable_piano\instruments\instrument_flute.ltx`06035441E11F4BFF620978738932C44F
+\gamedata\configs\plugins\playable_piano\instruments\instrument_guitar.ltx`E9F99C1E2ECBB509F10B1317AED4C1F1
+\gamedata\configs\plugins\playable_piano\instruments\instrument_piano.ltx`9F3DDEC055ADB76CCB6156B886DE7C1D
+\gamedata\configs\plugins\playable_piano\instruments\instrument_saxophone.ltx`2A98E6A3603D1ADFB5129D5F9C1907F3
+\gamedata\configs\plugins\playable_piano\instruments\instrument_strings.ltx`D40747BF0321E7BF6F2D2EED1560DF56
+\gamedata\configs\plugins\playable_piano\sheets\sheets.ltx`6B881B4C5534EC09C2A2BB22C589ACA8
+\gamedata\configs\plugins\playable_piano\sheets\sheet_base.ltx`1DA219A76E8ACFABE682FBD5B0301D69
+\gamedata\configs\plugins\playable_piano\sheets\base\16.txt`C341FD914668ECCD4102589C4E8C504C
+\gamedata\configs\plugins\playable_piano\sheets\base\22.txt`E24DB2CAF73BD72B4C5AEFD83F665429
+\gamedata\configs\plugins\playable_piano\sheets\base\32.txt`0857A7EBC12833909A3DFA7AA8B4D9AD
+\gamedata\configs\plugins\playable_piano\sheets\base\34.txt`997DA6AFA92AE9EACD5FFE7224C8ADD1
+\gamedata\configs\plugins\playable_piano\sheets\base\36.txt`4FAE7E07591D4FAFCA34B8A245FE4745
+\gamedata\configs\plugins\playable_piano\sheets\base\37.txt`E4D8EC400A8393089AFA0DD40E170734
+\gamedata\configs\plugins\playable_piano\sheets\base\56.txt`922C30C5F46B9CB6E414BFA5691877FE
+\gamedata\configs\plugins\playable_piano\sheets\base\78.txt`05CD4837EF89A1EB36F1B4894E4608B0
+\gamedata\configs\plugins\playable_piano\sheets\base\bandit-radio.txt`C02CDD50880701D1711BF69BA38208F0
+\gamedata\configs\plugins\playable_piano\sheets\base\dirge-for-the-planet.txt`F76C192736AFAB3784DA8823121D0591
+\gamedata\configs\plugins\playable_piano\sheets\base\everythings-alright.txt`6CFF6354C137C6A4E9C458B944F20952
+\gamedata\configs\plugins\playable_piano\sheets\base\flower-dance.txt`10661942272F6872D50BF78F0D0A8CE9
+\gamedata\configs\plugins\playable_piano\sheets\base\for-river.txt`E486867A4945C0AAAC48CABD5C1CA606
+\gamedata\configs\plugins\playable_piano\sheets\base\gnossiennes-3.txt`00A76369474AFADF1EFC1AB04A46E41F
+\gamedata\configs\plugins\playable_piano\sheets\base\gurza-dreaming.txt`2A1352926D1895687EA4C7DC90AE93C4
+\gamedata\configs\plugins\playable_piano\sheets\base\he-was-a-good-stalker.txt`860CCA059B02337AC668186749A05F48
+\gamedata\configs\plugins\playable_piano\sheets\base\howls-moving-castle.txt`5A4D6D7ED811C0DB1D581474645270CD
+\gamedata\configs\plugins\playable_piano\sheets\base\inception.txt`C11E4A811C8C37BE11ACC33C7A09D1A0
+\gamedata\configs\plugins\playable_piano\sheets\base\je-te-veux.txt`EB47AFFBD21C46072C46896E18098BAD
+\gamedata\configs\plugins\playable_piano\sheets\base\mc-mice-on-venus.txt`2B70BBF93FA59BC8B918275E71CC22B2
+\gamedata\configs\plugins\playable_piano\sheets\base\moonlight-sonata-3rd-movement.txt`F52B57DC987B3627193432F78B2BDBEC
+\gamedata\configs\plugins\playable_piano\sheets\base\nier-grandma.txt`594DA01D68781C9F1EC92AC0FC79E5F5
+\gamedata\configs\plugins\playable_piano\sheets\base\nier-song-of-ancients.txt`AA754E558762023D19133BD597749553
+\gamedata\configs\plugins\playable_piano\sheets\base\no-salvation-no-angels.txt`74BD7763E1C8ED9A6C151B345314E2C0
+\gamedata\configs\plugins\playable_piano\sheets\base\sh2-promise.txt`F4462EB9CAA3CBE9BC8A3A3C06C49AF1
+\gamedata\configs\plugins\playable_piano\sheets\base\to-zanarkand.txt`0F92038A5B056E28E5E8BCA1689F35CF
+\gamedata\configs\plugins\playable_piano\tags\categories.ltx`534AEC74B1257807763A3A6C0C3B1901
+\gamedata\configs\plugins\playable_piano\tags\tags_base.ltx`EA96E041159834939168D361C098F1C8
+\gamedata\configs\text\rus\ui_st_zml_presets.xml`E88F4EDE483C76413AE6E426285DC7B1
+\gamedata\configs\ui\ui_custom_msgs_eft.xml`48FE0D40BE3AEDB4D63AF8B51F63E487
+\gamedata\configs\ui\ui_furniture_piano_dialog.xml`074C76BEA3923C8CBE5A11BBC96719B1
+\gamedata\configs\ui\ui_furniture_piano_dialog_16.xml`71F00B5981AB586E151A39C78AB6DC9C
+\gamedata\meshes\dynamics\weapons\wpn_ak12\wpn_ak12taz_c79.ogf`7110CAE887D8FDE33CE50277C595BD1D
+\gamedata\meshes\dynamics\weapons\wpn_ak12\wpn_ak12taz_c79_hud.ogf`A5281BFAF13A4D0AC75D43CF53C5FCC0
+\gamedata\textures\wpn\wpn_addon_crosshair_red_dot.dds`7EA8A2373FE58C6C5A16DC8E02D55D91
+\gamedata\textures\wpn\wpn_crosshair_1p87w1p90.dds`FEB55271421B100463F043D20F4A9DD0
+\gamedata\textures\wpn\wpn_crosshair_1p88.dds`6EDEB03E2A79610C9F5A5BFDA5D0E488
+\gamedata\textures\wpn\wpn_crosshair_acog.dds`8A4E8A78A3D40423EC28FADB3DB261C7
+\gamedata\textures\wpn\wpn_crosshair_anpvs4.dds`AA245CC48BE26F828A2EC25640552AB0
+\gamedata\textures\wpn\wpn_crosshair_ar332.dds`C08ECF33DE1BEEAC1AA5B133942C4CC8
+\gamedata\textures\wpn\wpn_crosshair_arrowhead.dds`742D9F584EB02FBB93CD70C85B1C31F0
+\gamedata\textures\wpn\wpn_crosshair_bravo4.dds`9C4EEF4CECD18B16B4B9080439757D7F
+\gamedata\textures\wpn\wpn_crosshair_brevis.dds`6E8C2B248F0DD71A7DD97347F867CD52
+\gamedata\textures\wpn\wpn_crosshair_c79.dds`DEA340BE6BC70644DBB9B9091F5679E2
+\gamedata\textures\wpn\wpn_crosshair_eotech_dynamic.dds`AC3577A94A8D344177AE6021C0D86E65
+\gamedata\textures\wpn\wpn_crosshair_eotech_dynamic_far.dds`AC3577A94A8D344177AE6021C0D86E65
+\gamedata\textures\wpn\wpn_crosshair_exps2wg33.dds`E1C588C1D9BDEA6B05178BBD99B2B47C
+\gamedata\textures\wpn\wpn_crosshair_hamr.dds`9FD39F9326268AB8F5958CD3EA01FFEA
+\gamedata\textures\wpn\wpn_crosshair_hcowjuliet4.dds`578CA944A139D92327B89D41ECBE9986
+\gamedata\textures\wpn\wpn_crosshair_krechetw1p90.dds`04A45282F69B4C560BA094A861865879
+\gamedata\textures\wpn\wpn_crosshair_leupoldevo.dds`07CD2B2A6D9AC3A4904C8C30BFFE9F28
+\gamedata\textures\wpn\wpn_crosshair_leupoldhamr.dds`A55C6A55BF49F944F19A887B44C25B4D
+\gamedata\textures\wpn\wpn_crosshair_mh1wjuliet4.dds`C7F1B38C97144732B32DBEF6B6797278
+\gamedata\textures\wpn\wpn_crosshair_mk4cqt.dds`88E41DB187AA1CAAC3DBBB34B39BC1A9
+\gamedata\textures\wpn\wpn_crosshair_monstrum.dds`06C914C49FFCC6B1ECB7E7ABDC9B7371
+\gamedata\textures\wpn\wpn_crosshair_osprey734.dds`C687AE57F14ACFE310E67CC885232E3C
+\gamedata\textures\wpn\wpn_crosshair_p4x32.dds`471523D4E359828D552BF35AB75814E8
+\gamedata\textures\wpn\wpn_crosshair_po156.dds`3FFCFB78FFF174A56110C7DA3ED4FBE5
+\gamedata\textures\wpn\wpn_crosshair_pos1360w.dds`24D0828AF2C2EE8A8749D354D4E8D0A5
+\gamedata\textures\wpn\wpn_crosshair_posp1450w.dds`BBCBF3982D63BA23D073808E68E37622
+\gamedata\textures\wpn\wpn_crosshair_ps320.dds`50BB8D832663EBF44ECBA65D116C9DAA
+\gamedata\textures\wpn\wpn_crosshair_psu.dds`6676C05ED1712C2167ADF5709F76F328
+\gamedata\textures\wpn\wpn_crosshair_razor3.dds`27120D275DA5BEFF66FA5D5D690C1804
+\gamedata\textures\wpn\wpn_crosshair_razorhd.dds`27120D275DA5BEFF66FA5D5D690C1804
+\gamedata\textures\wpn\wpn_crosshair_sb320_50pm2.dds`D2AC509EE591DA92922079DDBF9A86FA
+\gamedata\textures\wpn\wpn_crosshair_sl25.dds`E4CE51054F31DBB98081182C469CFA63
+\gamedata\textures\wpn\wpn_crosshair_spitfire.dds`E32D2493E5B5ADC3EF7F70D19F9239DA
+\gamedata\textures\wpn\wpn_crosshair_ssbravo4.dds`4E94A2E3C626DF28EFCCD7C0E96BFA0E
+\gamedata\textures\wpn\wpn_crosshair_szafir.dds`5AA49FDD3DDCEBD586A78294533CBE86
+\gamedata\textures\wpn\wpn_crosshair_tac30.dds`0B32E7984E453F0CA021487DDB9E2DBA
+\gamedata\textures\wpn\wpn_crosshair_trihawk.dds`FB23AD8CD06EF83E2F1DED6C38E78859
+\gamedata\textures\wpn\wpn_crosshair_uh1wg33.dds`8B2A753E6F3AACE968781A01751203EB
+\gamedata\textures\wpn\wpn_crosshair_vadopt3942g.dds`A1794A9D78973A734FAEDB1DA5A19406
+\gamedata\textures\wpn\wpn_crosshair_vulcan.dds`6B540C7AD47CDC0ECE946F74820AFB12
+\gamedata\textures\wpn\wpn_crosshair_yma951600.dds`592CCF1E93DBEFA23DDB9DD63147AFDA
+\gamedata\textures\wpn\wpn_dot_green.dds`59A1EFCABB4780E190187201A6F7D7F3
+\gamedata\textures\wpn\wpn_pfx_laser_beam.dds`AF441927218CB8573476ED6664B6E7F1
+\gamedata\textures\wpn\wpn_red_dot_reticle.dds`8CA4340595D51442E133F6B21559D681
+\gamedata\textures\wpn\AN_PVS-4\wpn_crosshair_anpvs4_3dss.dds`FA5F4BAF53BC923C94E75A05C4D8F928
+\gamedata\textures\wpn\armasight_vulcan\wpn_crosshair_vulcan_3dss.dds`D53101330DF72AF818093D23064DBC98
+\gamedata\textures\wpn\brevis\wpn_crosshair_brevis_3dss.dds`48CE291CC9260570A80D340EA3BC62DF
+\gamedata\textures\wpn\common_lenses\wpn_addon_crosshair_red_dot.dds`68961836A8B379D71D2C2FF8CFF155ED
+\gamedata\textures\wpn\common_lenses\wpn_crosshair_eotech_dynamic.dds`FC9202D40B455CC6240B8F68A5EDBC5A
+\gamedata\textures\wpn\elbit_falcon2\wpn_crosshair_falcon2.dds`A12ACEBE4CF1B8A74182E6C480A10450
+\gamedata\textures\wpn\eotech_eolad\wpn_crosshair_eotech_553_dynamic.dds`E9F28B27BB0EE6D5A2DA6C341AA1D4FC
+\gamedata\textures\wpn\glock_pillii\wpn_addon_crosshair_red_dot.dds`2A450683010862D4FC887255720F6DE5
+\gamedata\textures\wpn\hartman_mh1\wpn_crosshair_mh1_far.dds`2FB811B0DD49C904CEFF9B3D66C2E331
+\gamedata\textures\wpn\holosun_hs401\wpn_crosshair_hs401.dds`3E91D61A62C95D761FD72AA4C32DB7F4
+\gamedata\textures\wpn\jp84_bas_sights\wpn_addon_crosshair_red_dot.dds`68961836A8B379D71D2C2FF8CFF155ED
+\gamedata\textures\wpn\jp84_bas_sights\wpn_kemper_lens.dds`841471C9352B707A0EE70885029CAE56
+\gamedata\textures\wpn\jp84_bas_sights\wpn_scope_all_lens2.dds`CC85E3078D719453BFF1234FDD6959C1
+\gamedata\textures\wpn\jp84_bas_sights\wpn_scope_all_lens2_blue.dds`CC85E3078D719453BFF1234FDD6959C1
+\gamedata\textures\wpn\jp84_bas_sights\acog\acog_lum.dds`8DEAB041EFBFB88FF4E5DCFB52503177
+\gamedata\textures\wpn\jp84_bas_sights\acog\wpn_crosshair_acog_3d.dds`D8C9E761F4D5A6A52314684C34FB63B5
+\gamedata\textures\wpn\jp84_bas_sights\burris_tac30\burris_fullfield_tac30_1-4x24.dds`7C00C00DABF4330E6C626E697FFA046E
+\gamedata\textures\wpn\jp84_bas_sights\cmore\wpn_addon_scope_c-more_crosshair_dirt.dds`767E58AB7A3BDCA994AA91E05EF6A565
+\gamedata\textures\wpn\jp84_bas_sights\cortex\cortex.dds`7BE1BA166BEC67D06D57A723BE557F4A
+\gamedata\textures\wpn\jp84_bas_sights\Delta_point\wpn_addon_crosshair_red_dot.dds`68961836A8B379D71D2C2FF8CFF155ED
+\gamedata\textures\wpn\jp84_bas_sights\Delta_point\wpn_scope_all_lens2_blue.dds`CC85E3078D719453BFF1234FDD6959C1
+\gamedata\textures\wpn\jp84_bas_sights\devo\leupold_devo.dds`48C160753E23304AC8AA1A8F0D23AB91
+\gamedata\textures\wpn\jp84_bas_sights\docter\wpn_addon_crosshair_docter_dynamic.dds`80E1CAA275E8F60E0AA5B3BC7154F6AD
+\gamedata\textures\wpn\jp84_bas_sights\ekb_okp7\wpn_okp2_reticle_dynamic.dds`DF35714991A4BF5657E246217C375B56
+\gamedata\textures\wpn\jp84_bas_sights\ekp8_18\wpn_ekp8_18_mark.dds`B2B7FCE1E1FFA15648109906F45EF8A2
+\gamedata\textures\wpn\jp84_bas_sights\elcan_hco\wpn_crosshair_hco.dds`C5C6158E1C887F22D14CB11CE1496F5E
+\gamedata\textures\wpn\jp84_bas_sights\elcan_hco\wpn_crosshair_hco_far.dds`500D298F0C26D53553F551DF08B10F4D
+\gamedata\textures\wpn\jp84_bas_sights\eotech\eot.dds`4F4801E4E4821F9084BAEA9C85D269DE
+\gamedata\textures\wpn\jp84_bas_sights\eotech\wpn_crosshair_eotech_553_dynamic.dds`E9F28B27BB0EE6D5A2DA6C341AA1D4FC
+\gamedata\textures\wpn\jp84_bas_sights\eotech\wpn_crosshair_eotech_553_dynamic_far.dds`05915FFB89844346CB3DD60028617B4A
+\gamedata\textures\wpn\jp84_bas_sights\eotech\wpn_crosshair_eotech_dynamic.dds`FC9202D40B455CC6240B8F68A5EDBC5A
+\gamedata\textures\wpn\jp84_bas_sights\eotech\wpn_crosshair_eotech_dynamic_far.dds`276ECC137446FD9C947362F9D300BE4A
+\gamedata\textures\wpn\jp84_bas_sights\jupiter_1p87\wpn_crosshair_jp87.dds`46E45281FE71421E148EDBEA7F7213F5
+\gamedata\textures\wpn\jp84_bas_sights\jupiter_1p87\wpn_crosshair_jp87_far.dds`794C281768C5B49F441CE7D7988B6102
+\gamedata\textures\wpn\jp84_bas_sights\lco\wpn_crosshair_lco.dds`DF35714991A4BF5657E246217C375B56
+\gamedata\textures\wpn\jp84_bas_sights\leupold\leupold_cross.dds`BEA7AC89813EFE72DB0EF4C0421FC7E4
+\gamedata\textures\wpn\jp84_bas_sights\leupold\leupold_cross_alt.dds`D081AA585882B7D7BFB05D482B20839D
+\gamedata\textures\wpn\jp84_bas_sights\leupold\wpn_crosshair_leupold_3d.dds`D8C9E761F4D5A6A52314684C34FB63B5
+\gamedata\textures\wpn\jp84_bas_sights\monstrum_2_32\monstrum_2x32_mark.dds`9EE82025A6A291C3D094CFA375016D36
+\gamedata\textures\wpn\jp84_bas_sights\p1x42\wpn_crosshair_pilade.dds`64BB4A50D75E73EE1398DA675BD138C3
+\gamedata\textures\wpn\jp84_bas_sights\pilad_4_32\pilad_p4x32.dds`89AED20281B357BD62082D9BF8DA8917
+\gamedata\textures\wpn\jp84_bas_sights\pk06\wpn_crosshair_belomo_pk06.dds`D3C0E80633405FD63B0D2ABD3B6E0C9E
+\gamedata\textures\wpn\jp84_bas_sights\pn23\pn23.dds`C260E8E0D95AFBADC8F7A606AB075395
+\gamedata\textures\wpn\jp84_bas_sights\pn23\wpn_crosshair_pn23_3d.dds`D8C9E761F4D5A6A52314684C34FB63B5
+\gamedata\textures\wpn\jp84_bas_sights\rakurs\wpn_crosshair_rakurs_dynamic_far.dds`0626BEE7CD2D8559E887F5982C17108D
+\gamedata\textures\wpn\jp84_bas_sights\romeo4\wpn_crosshair_sig_sauer_romeo.dds`28AAE3D033AF17E71B9CCB44C1072EB0
+\gamedata\textures\wpn\jp84_bas_sights\romeo8\wpn_crosshair_sig_sauer_romeo.dds`63030C128CDA09EA784EC90B741B052C
+\gamedata\textures\wpn\jp84_bas_sights\specterDR\wpn_crosshair_specter_3d.dds`31BD08BBEB933D4A5DCBA0982A432D01
+\gamedata\textures\wpn\jp84_bas_sights\trihawk\swampfox_trihawk_3x30_mark.dds`51DA04F78E1BE068C40C3D28350EEE25
+\gamedata\textures\wpn\jp84_bas_sights\vortex_razor\Reticle_razor_uh1_d.dds`D57A0393A5F600D9ABDA40A859ACE3DC
+\gamedata\textures\wpn\jp84_bas_sights\vortex_razor\uh1.dds`5E0D475F74159E09F118E4BB0FA34C19
+\gamedata\textures\wpn\jp84_bas_sights\vortex_razor\wpn_vortex_crosshair_dynamic.dds`18E9BCB45ABB3D3A84A16D16757638AB
+\gamedata\textures\wpn\jupiter_1p87\wpn_crosshair_jp87.dds`46E45281FE71421E148EDBEA7F7213F5
+\gamedata\textures\wpn\jupiter_1p87\wpn_crosshair_jp87_far.dds`794C281768C5B49F441CE7D7988B6102
+\gamedata\textures\wpn\krechet\wpn_crosshair_krechet.dds`9C02CC5BE8E482EE4A40B2D9BCD1F3CB
+\gamedata\textures\wpn\krechet\wpn_crosshair_krechet_far.dds`9E2B7BFB269E27C1591841282A35913E
+\gamedata\textures\wpn\leupold_harm\wpn_crosshair_leupoldhamr_3dss.dds`52825BE537E192505274FF08E27A9088
+\gamedata\textures\wpn\mepro_rds\wpn_crosshair_rds.dds`20DD4DBC0EBD8FE87EA8E51C9B3F017C
+\gamedata\textures\wpn\mk4_cqt\wpn_crosshair_mk4cqt_3dss.dds`3A8B668B8DEBF46C858150EBE0D1A5AA
+\gamedata\textures\wpn\osprey_734\wpn_crosshair_osprey734_3dss.dds`4BABD80D341D0CCBBAD28A935B9E0158
+\gamedata\textures\wpn\p1x42\wpn_crosshair_pilade.dds`64BB4A50D75E73EE1398DA675BD138C3
+\gamedata\textures\wpn\pa_slx25x\wpn_crosshair_slx25x_3dss.dds`CA9242A084A00B97856D6EAB983968AF
+\gamedata\textures\wpn\pk23\wpn_crosshair_pk23.dds`B28CAB4D925C29EC73B298723022D5C0
+\gamedata\textures\wpn\pks07\pks07.dds`9C3572B4FE4BF9DD38462ED01EC5335F
+\gamedata\textures\wpn\pk_as\wpn_addon_scope_ac11090_crosshair_dot.dds`036FF7F7F99B13640E2C544D5A59D34C
+\gamedata\textures\wpn\pso_pctny\pso1m21.dds`A92A50B8977DB8EBEF669CED1A4E94A0
+\gamedata\textures\wpn\romeo_msr\wpn_crosshair_msr.dds`656C4BDE693F0A19C6C90DE632DEFE67
+\gamedata\textures\wpn\rusak\wpn_crosshair_rusak.dds`C966F810D3F5EAE8110B57AF017421FB
+\gamedata\textures\wpn\scp_rd40\wpn_crosshair_scprd40.dds`6D08DE23CCD67E9270A132142C6747B6
+\gamedata\textures\wpn\steiner_r1x\wpn_crosshair_r1x.dds`17D48EC9454FD93861927B463E553CDB
+\gamedata\textures\wpn\vortex_spitfire\wpn_crosshair_spitfire_3dss.dds`0F3830FEA83A6D843BED203D8829B0B0
+\MODS\01. EGUI\gamedata\configs\system.ltx`3E2ADCFD846EBA3EB8FAABE1E0940E48
+\MODS\01. EGUI\gamedata\configs\text\eng\ui_st_options.xml`8FF7D37131842FEDCC2D3E518874BD53
+\MODS\01. EGUI\gamedata\configs\text\rus\ui_st_options.xml`DAEA47A169DB4C7366AF0D05892B9DA2
+\MODS\01. EGUI\gamedata\configs\ui\ui_mm_main.xml`8D2B2E5C80A1BD3748EADDAEA9FCAD06
+\MODS\01. EGUI\gamedata\configs\ui\ui_mm_main_16.xml`8D2B2E5C80A1BD3748EADDAEA9FCAD06
+\MODS\01. EGUI\gamedata\scripts\modxml_AL_QuestArrow.script`D41D8CD98F00B204E9800998ECF8427E
+\MODS\01. EGUI\gamedata\scripts\modxml_AL_QuestArrow_219.script`D41D8CD98F00B204E9800998ECF8427E
+\MODS\01. EGUI\gamedata\scripts\modxml_AL_QuestArrow_43.script`D41D8CD98F00B204E9800998ECF8427E
+\MODS\07. Магазины\gamedata\configs\items\weapons\magazines2\mag_ak_drum.ltx`180916A643F3C670B8B5532F32F052AA
+\MODS\07. Магазины\gamedata\configs\items\weapons\magazines2\mag_auto9j.ltx`B51DA9D3986A04B129CECF998994C674
+\MODS\07. Магазины\gamedata\configs\items\weapons\magazines2\mag_bren_762x51.ltx`8EF720A6E7F4ABF6BF38181821553701
+\MODS\07. Магазины\gamedata\configs\items\weapons\magazines2\mag_eft_sks_tac.ltx`DC0CCB4CABAC80794D37ECBAAE7ECEB5
+\MODS\07. Магазины\gamedata\configs\items\weapons\magazines2\mag_em2.ltx`1190DF16E9AA5F0C0046383A33F1FC09
+\MODS\07. Магазины\gamedata\configs\items\weapons\magazines2\mag_kriss_drum.ltx`B9E3DAC332C97781A47EFBF6768048B3
+\MODS\07. Магазины\gamedata\configs\items\weapons\magazines2\mag_m95clip.ltx`83380D4C1E9F876EDF51AB65FF57110C
+\MODS\07. Магазины\gamedata\configs\items\weapons\magazines2\mag_macj.ltx`069F1F8197CEF07A91634BC6CDC1C840
+\MODS\07. Магазины\gamedata\configs\items\weapons\magazines2\mag_saiga9.ltx`02A28F1E73D3A852316B88F9639AE1E2
+\MODS\07. Магазины\gamedata\configs\magazines\basetypes\base_em2_762.ltx`276C96E7622811B24B03A40B999BDB22
+\MODS\07. Магазины\gamedata\configs\magazines\basetypes\base_kriss.ltx`6DD752D8C0FA40533F1E25924CD86594
+\MODS\07. Магазины\gamedata\configs\magazines\basetypes\base_m95j.ltx`FF6446887E95F343ED7E62922C677FDD
+\MODS\07. Магазины\gamedata\configs\magazines\basetypes\base_mac10s.ltx`18E1A443BA11D3C1AA82960EA5A52C9C
+\MODS\07. Магазины\gamedata\configs\magazines\basetypes\base_steyr_scout.ltx`9CAB88B696BA9951037EF0CE09DB8C8A
+\MODS\07. Магазины\gamedata\configs\magazines\basetypes\base_steyr_scout_big.ltx`1700A34045A42C4D873BDF952842A8F4
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_733_j.ltx`2E216A062001369D0B6EFCD4A0F1E4CF
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_ak_drummag.ltx`BF0C8338D11E54019173FBCDB6BE6374
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_ar57.ltx`BA2CE9C22688D6FCBC83FE6A5C653A80
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_auto9j.ltx`D2803D7E78B6A0E5142AFAED5455AB00
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_cronen_squall.ltx`52459C8DA5680F041A218E6D7F6C3772
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_cz_bren.ltx`EBC5153B87687C8051A9EF4CE91D57C2
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_ar_tan.ltx`B8A75B22B4FB7FD74C255F14787DE2BA
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_deagle.ltx`D1591A28E5C2BF6C1B3E9AD460F0FA01
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_m4a1.ltx`EC7D279837CA291D64FB04FA29A0DAE7
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_mcx.ltx`253F62209D401D28E9ACBCE723A0D2E7
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_mk18_tan.ltx`EE6B082E05CB36F3234128760B94D56B
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_rfb.ltx`32B41D4F670FC950A4AC31E82BCB2514
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_saiga9.ltx`9E721F7C3A30168E91B511E4DC6125ED
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_sks_tac.ltx`227AF730813FC07E040E38DCE1FDC0BC
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_svd.ltx`2FD58EF027C54F276A58E937D8AECDD7
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_eft_tt33.ltx`1EA9DE1762930BB2DE587D8A3F0D04FD
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_em2.ltx`712559011098FBAC9CC2300CB01F9F8C
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_glock_pillii.ltx`466C2BF5A98D8B1512F93D842A7546FE
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_ipi_vulcan.ltx`0AFC1613ADBB1D23299E6BD37D4C542E
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_lewd_sr9.ltx`8C149519C69638DF05CD78EB9B0B2462
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_m95_j.ltx`61F92D7EF3B868A48266D0BFDA14D77E
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_m95_j_carbine.ltx`E36061EF14E6788375B75AAF03AC274D
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_mac10j.ltx`3D4CDABC7382AE14AA0909693F4C964B
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_mac10j_big.ltx`D5622260216C4E3E73E245858BD1F0B2
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rem7615.ltx`EF6B7EFA20E089CA6ED683E1B9C555CE
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapam17_mag.ltx`213E079470F3EBF6FB9A3FD4408DFF4C
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapamb17_mag.ltx`A239A8D3F32BD42DB6248867CFC4CFDF
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapbcm_mag.ltx`29EA2F6FF2DCB39B277DC20E259C42F0
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapcr7_mag.ltx`FCCC07DB4EBEBF8C18EC89FA4E0BC03B
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapg95k_mag.ltx`3DCBCC21D782E983EA8E3272D335BD43
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapgen12_mag.ltx`A8F4EA90BB8A7E9DC67FB4AAEF0E47ED
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwaphk416smr_mag.ltx`1148CCBE64934BCBD6D32BE7E1FF6C7C
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwaphk416_mag.ltx`5F6E556FE18F2D0B13BF8AB1AE28FEF2
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapkrnk_mag.ltx`C9CFF50C3DD74BF4F980D04CA9B655FB
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapks1_mag.ltx`3CDE9F08DA7E453EAE28A99F91C4522B
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapl119a2_mag.ltx`2AD38D6F6329B2D037E6A1622B183D38
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapm110k1_mag.ltx`AACEAA10605251F1555F02573A395B54
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapmb47_mag.ltx`5804F2E375715093F8691A317F9A6178
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapmcxspear_mag.ltx`611BD77D586CF7743A6F961068604D67
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapmcx_mag.ltx`E5816CCEEFF45DD7C074E951740ADF96
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapmpx_mag.ltx`E6F73A63273EDED5867B5FA248AA51E2
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapn4.ltx`88F7D8385EA4E2D43F72DA815831110C
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwaprattler_mag.ltx`BAA9BB57C784DA83A8D7DF83B0234154
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapsg553tac_mag.ltx`CC7707BA6F3D16E3144598F26A59DB9D
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapsg553_mag.ltx`D2A9711978093F0E12BF628464BF4BF2
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_rwapurgi_mag.ltx`F8EC5CD22A45342157592C71005040A6
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_sai_gry.ltx`39D8539144EC1042D1D4C0942CE08959
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_udp9.ltx`ACE8C6414B564585FF24A6ACCB3FF02C
+\MODS\07. Магазины\gamedata\configs\magazines\weapons\w_xm177_j.ltx`CA300104D02AB298F7BB814571DEE285
